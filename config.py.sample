@@ -1,0 +1,21 @@
+##
+# Main URL for services callbacks
+# Should use https protocol
+##
+URL = ''
+
+# Unique application name in lowercase
+APPLICATION_NAME = ''
+
+SERVER = {
+    'host': '127.0.0.1',
+    'port': 1338
+}
+
+DB = {
+    'name': 'default',
+    'host': '127.0.0.1',
+    'port': 27017
+}
+# Token got from App Manager
+APPLICATION_TOKEN = ''
